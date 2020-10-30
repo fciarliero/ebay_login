@@ -37,4 +37,4 @@ for windows:
 for linux:
 "virtualenv env"
 "source env/bin/activate"
-python3 main.py
+"python3 main.py"
