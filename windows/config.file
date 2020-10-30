@@ -1,0 +1,9 @@
+[display]
+visible = 1
+[credentials]
+user = fuckingfake@suckit.com
+password = avenidafalsa123
+[api]
+key = 35b6f49eef2d1077bac950d056da03a2
+[proxy]
+proxies = http://168.169.96.2:8080,http://205.202.38.126:8080,http://64.235.204.107:8080

@@ -1,0 +1,15 @@
+certifi==2020.6.20
+chardet==3.0.4
+configparser==5.0.0
+EasyProcess==0.3
+geckodriver-autoinstaller==0.1.0
+idna==2.10
+numpy==1.19.2
+opencv-contrib-python==4.4.0.44
+opencv-python==4.4.0.44
+Pillow==7.2.0
+PyVirtualDisplay==1.3.2
+requests==2.24.0
+selenium==3.141.0
+TwoCaptcha==0.0.1
+urllib3==1.25.10

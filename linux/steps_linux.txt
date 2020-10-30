@@ -1,0 +1,15 @@
+#open terminal on the folder with all the files
+#tested to work with python 3.8.2 in Ubuntu 20.04.1 LTS
+#then run each command
+
+
+sudo cp geckodriver /bin/geckodriver
+sudo apt-get install python-setuptools
+sudo apt-get install xvfb
+sudo apt-get install xserver-xephyr
+sudo easy_install PyVirtualDisplay
+pip3 install --user virtualenv
+virtualenv env
+source env/bin/activate
+pip3 install -r requirements.txt
+python3 main.py
