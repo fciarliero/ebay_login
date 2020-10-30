@@ -1,6 +1,6 @@
 #open terminal on the folder with all the files
 #tested to work with python 3.8.2 in Ubuntu 20.04.1 LTS
-#then run each command
+#run each command
 
 
 sudo cp geckodriver /bin/geckodriver
